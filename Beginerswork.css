@@ -1,0 +1,66 @@
+.container {
+    width: 1315px;
+    border-radius: 3px;
+    padding-left: 6px;
+    padding-right: 6px;
+    background-color: rgb(233, 213, 247);
+}
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    font-style: normal;
+    color: rgb(231, 5, 5);
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+    background-color: rgb(46, 101, 219);
+}
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-style: normal;
+    color: rgb(46, 3, 124);
+    text-align: center;
+}
+h3 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: normal;
+    color: rgb(41, 3, 175); 
+}
+p, ol, ul, li {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.text2 {
+    color: rgb(47, 4, 167);
+    font-family: 'Times New Roman', Times, serif;
+    font-size:medium; 
+    text-align: center; 
+    font-weight: bold;
+    margin-bottom: 0;
+}
+.footer {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    height: 25px;
+    background-color: rgb(46, 101, 219);
+}
+.text1 {
+    color: red;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+    margin-top: 0;
+}
+a {
+    color: rgb(47, 4, 167);
+    text-decoration: aliceblue;
+}
+.main {
+    background-color: white;
+}
