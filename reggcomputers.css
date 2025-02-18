@@ -1,0 +1,109 @@
+.Container {
+    width: 1348px;
+    margin: 0;
+}
+.header {
+    background-color: rgba(104, 93, 252, 0.13);
+    height: 20px;
+}
+.intro {
+    color:brown;
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.head {
+    background-color: rgba(35, 198, 248, 0.116);
+    height: 130px;
+    padding: 3px;
+}
+h1 {
+    color: rgb(3, 3, 179);
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bolder;
+    text-align: center;
+    margin: 8px;
+}
+.subhead {
+    background-color: rgba(36, 236, 159, 0.13);
+    height: 70px;
+    padding: 3px;
+}
+.slogan {
+    color: rgb(0, 72, 205);
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: initial;
+    text-align: center;
+    margin: 8px;
+}
+.sites {
+    background-color: rgba(3, 219, 136, 0.11);
+    height: 30px;
+}
+nav {
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+a {
+    color: rgb(4, 100, 196);
+    font-size: 14px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.no-underline {
+    text-decoration: none;
+}
+.course {
+    background-color: rgba(128, 128, 128, 0.048);
+    height: 250px;
+}
+.subject {
+    color:darkslateblue;
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 15px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 15px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.gadgets {
+    background-color: rgba(255, 255, 0, 0.096);
+    height: 490px;
+    text-align: center;
+}
+.footer {
+    background-color: rgba(104, 93, 252, 0.137);
+    height: 20px;
+}
+.end {
+    color:brown;
+    font-style: italic;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+img {
+    height: 200px;
+    width: 300px;
+    border-radius: 3px;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    image-orientation: flip;
+}
